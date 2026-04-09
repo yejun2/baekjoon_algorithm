@@ -8,7 +8,6 @@ BOJ(백준) 알고리즘 문제 풀이 및 코드 정리 저장소입니다.
 ## 🔗 Baekjoon Profile
 
 - solved.ac: [yejun2313](https://solved.ac/profile/yejun2313)
-- Baekjoon: [yejun2313](https://www.acmicpc.net/user/yejun2313)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yejun2313)](https://solved.ac/profile/yejun2313)
 
