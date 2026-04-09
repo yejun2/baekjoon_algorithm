@@ -5,7 +5,7 @@ BOJ(백준) 알고리즘 문제 풀이 및 코드 정리 저장소입니다.
 
 ---
 
-## 🔗 Baekjoon Profile
+## Baekjoon Profile
 
 - solved.ac: [yejun2313](https://solved.ac/profile/yejun2313)
 
@@ -13,7 +13,7 @@ BOJ(백준) 알고리즘 문제 풀이 및 코드 정리 저장소입니다.
 
 ---
 
-## 📌 Repository Overview
+## Repository Overview
 
 - 문제 풀이 코드 정리
 - 알고리즘 유형별 접근 방식 기록
